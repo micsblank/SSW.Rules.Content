@@ -105,6 +105,15 @@ Please see below for a more detailed breakdown of the Sprint:
 
 ![Figure: Release Burnup](release-burnup.jpg)
 
+| Metrics – last 30 days | Count |
+| --- | --- |
+| New PBIs | {{ NEW PBIS }} |
+| AI PBIS | {{ PBIS CREATED WITH AI }} ( {{ PERCENT OF NEW PBIS CREATED WITH AI }} %) |
+| Completed PBIs | {{ PBIS COMPLETED }} |
+| Net Change in PBIs | {{ +/- OVERALL PBI COUNT CHANGE }} |
+
+**Figure: Backlog stats from [the stats generator](https://backlog-sprint-tool.vercel.app/) (GitHub only)**
+
 7. Build Pipeline Health & Production Deployments - How many times did we deploy to Production?
 
 ![Figure: Build Pipeline Health from DevOps](thumbnail-image.png)
@@ -148,10 +157,9 @@ Progress:
 
 {{ INSERT DETAILS of any problems for which no solutions existed, and ensure detail is captured as per [https://ssw.com.au/rules/do-you-record-your-research-under-the-pbi](/do-you-record-your-research-under-the-pbi) }}
 
-11. AI Use - what tools did you use?
+### 🤖 AI use - what tools did you use?
 
-* {{ PERSON }} - {{ TOOL }}
-* {{ ETC }}
+* {{ PERSON }} - {{ TOOLS }}
 
 ### Sprint Retrospective
 
